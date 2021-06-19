@@ -1,0 +1,16 @@
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\bin\Debug\net5.0\Conway'sGameOfLife.exe
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\bin\Debug\net5.0\Conway'sGameOfLife.deps.json
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\bin\Debug\net5.0\Conway'sGameOfLife.runtimeconfig.json
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\bin\Debug\net5.0\Conway'sGameOfLife.runtimeconfig.dev.json
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\bin\Debug\net5.0\Conway'sGameOfLife.dll
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\bin\Debug\net5.0\ref\Conway'sGameOfLife.dll
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\bin\Debug\net5.0\Conway'sGameOfLife.pdb
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\obj\Debug\net5.0\Conway'sGameOfLife.csproj.AssemblyReference.cache
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\obj\Debug\net5.0\Conway'sGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\obj\Debug\net5.0\Conway'sGameOfLife.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\obj\Debug\net5.0\Conway'sGameOfLife.AssemblyInfo.cs
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\obj\Debug\net5.0\Conway'sGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\obj\Debug\net5.0\Conway'sGameOfLife.dll
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\obj\Debug\net5.0\ref\Conway'sGameOfLife.dll
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\obj\Debug\net5.0\Conway'sGameOfLife.pdb
+C:\Users\joshu\Documents\Visual Studio 2019\Projects\Conway'sGameOfLife\obj\Debug\net5.0\Conway'sGameOfLife.genruntimeconfig.cache
